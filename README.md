@@ -1,24 +1,54 @@
-<h1 align="center">Hi 👋, I'm Aniket Raj</h1>
-<h3 align="center">On My Way.🚀</h3>
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theaniketraj&label=Profile%20views&color=0e75b6&style=flat" alt="theaniketraj" /> </p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
 
-<p align="left"> <a href="https://twitter.com/aniketdontcare" target="blank"><img src="https://img.shields.io/twitter/follow/aniketdontcare?logo=twitter&style=for-the-badge" alt="aniketdontcare" /></a> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/theaniketraj.github.com/theaniketraj)
 
-- 👨‍💻 All of my projects are available at [https://github.com/theaniketraj](https://github.com/theaniketraj)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aniketdontcare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketdontcare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theaniketraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theaniketraj" height="30" width="40" /></a>
 </p>
+<div size='20px'> Hi! My name is Aniket Raj. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = '150px' height='150px'></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaniketraj&show_icons=true&locale=en&layout=compact" alt="theaniketraj" /></p>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaniketraj&show_icons=true&locale=en" alt="theaniketraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaniketraj&" alt="theaniketraj" /></p>
+- 🔭 I’m currently working on Github projects, blogs etc...
 
+- 🌱 I’m currently learning C, C++, Data Science, AWS, Data Engineering etc... 
+
+- 👯 I’m looking to collaborate on projects, tech articles... 
+
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
+
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
+<a href= https://github.com/github.com/theaniketraj?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/www.linkedin.com/in/theaniketraj/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/twitter.com/aniketdontcare'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/github.com/theaniketraj'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
+<footer>  </footer>
