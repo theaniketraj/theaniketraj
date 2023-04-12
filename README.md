@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/theaniketraj.github.com/theaniketraj)
 
 </p>
-<div size='20px'> Hi! My name is Aniket Raj. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Aniket Raj. Thank You for taking the time to visit my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = '150px' height='150px'></h2>
