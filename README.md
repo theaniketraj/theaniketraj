@@ -5,8 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/theaniketraj.github.com/theaniketraj)
-
 </p>
 <div size='20px'> Hi! My name is Aniket Raj. Thank You for taking the time to visit my GitHub Profile :smile: 
 </div>
