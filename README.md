@@ -1,8 +1,9 @@
 <p>
-# 💫 About Me ⚡️
+# 💫 About Me ⚡️<br>
 🔭 I’m currently working on Python.<br>👯 I’m looking to collaborate on Open Source Contribution.<br>🤝 I’m looking for help with Advanced Stuff in Python.<br>🌱 I’m currently learning Python and DSA.<br>💬 Ask me about C, Python.<br>⚡ Fun fact : I'm a Movie Freak.
 </p>
 <p>  
+    💻 Tech Stack :<br/>
     <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Android%20Studio-42B883?style=flat-square&logo=Android&logoColor=white"/>
