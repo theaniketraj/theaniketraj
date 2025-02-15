@@ -1,6 +1,6 @@
 <p>
 # 💫 About Me ⚡️<br>
-🔭 I’m currently working on Kotlin.<br>👯 I’m looking to collaborate on Open Source Contribution.<br>🤝 I’m looking for help with Advanced Stuff in Android Development.<br>🌱 I’m currently learning Next.js, UI/UX and Design Guidelines.<br>💬 Ask me about Kotlin, Android Studio.<br>⚡ Fun fact : I'm a Movie Freak.
+🔭 I’m currently working on Kotlin.<br>👯 I’m looking to collaborate on Open Source Contribution.<br>🤝 I’m looking for help with Advanced Stuff in Android Development.<br>🌱 I’m currently learning Next.js & UI/UX.<br>💬 Ask me about Kotlin, Android Studio, UI/UX.<br>⚡ Fun fact : I'm a Movie Freak.
 </p>
 <p>  
     💻 Tech Stack :<br/>
