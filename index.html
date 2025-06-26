@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniket Raj | Portfolio</title>
+    <meta name="description"
+        content="Portfolio of [Your Name], a [Your Role/Aspiration] specializing in [Your Key Skills].">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Favicon (optional but recommended) -->
+    <!-- <link rel="icon" href="assets/favicon.ico" type="image/x-icon"> -->
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-container">
+            <a href="index.html" class="logo">
+                <!-- <img src="assets/logo.svg" alt="Your Name Logo"> -->
+                AR.
+            </a>
+            <nav class="main-nav">
+                <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                </button>
+                <ul class="nav-links">
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><button id="theme-toggle-button" aria-label="Toggle theme">☀️</button></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="container">
+                <h1>Hello. I'm Aniket Raj</h1>
+                <p class="subtitle">Computer Science Engineer | Aspiring Android
+                    Developer & AI Enthusiast</p>
+                <p class="bio">
+                    A passionate and results-driven individual with a strong foundation in computer science,
+                    specializing in Kotlin-based Android development.<br>
+                    I love crafting innovative solutions and exploring the intersections of technology,
+                    particularly in AI and Automation.
+                </p>
+                <a href="projects.html" class="btn btn-primary">View My Work</a>
+            </div>
+        </section>
+
+        <section id="featured-projects" class="featured-projects-section section-padding">
+            <div class="container">
+                <h2 class="section-title">Selected Projects</h2>
+                <div class="projects-grid">
+                    <!-- Project Card 1 -->
+                    <article class="project-card">
+                        <img src="assets/project-thumbnails/project1-thumb.jpg" alt="Project 1 Thumbnail"
+                            class="project-thumbnail">
+                        <div class="project-card-content">
+                            <h3>Project Title 1 (e.g., NewsApp Android)</h3>
+                            <p class="project-tagline">A brief, catchy tagline for your project.</p>
+                            <p class="project-tech"><strong>Tech:</strong> Kotlin, Jetpack Compose, Retrofit</p>
+                            <a href="[LINK_TO_PROJECT_1_OFFICIAL_SITE]" target="_blank" rel="noopener noreferrer"
+                                class="btn btn-secondary">Visit Project Site</a>
+                            <!-- <a href="[LINK_TO_PROJECT_1_GITHUB]" target="_blank" rel="noopener noreferrer" class="link-github">GitHub</a> -->
+                        </div>
+                    </article>
+
+                    <!-- Project Card 2 -->
+                    <article class="project-card">
+                        <img src="assets/project-thumbnails/project2-thumb.jpg" alt="Project 2 Thumbnail"
+                            class="project-thumbnail">
+                        <div class="project-card-content">
+                            <h3>Project Title 2 (e.g., AI Image Classifier)</h3>
+                            <p class="project-tagline">Another cool project description.</p>
+                            <p class="project-tech"><strong>Tech:</strong> Python, TensorFlow, OpenCV</p>
+                            <a href="[LINK_TO_PROJECT_2_OFFICIAL_SITE]" target="_blank" rel="noopener noreferrer"
+                                class="btn btn-secondary">Visit Project Site</a>
+                        </div>
+                    </article>
+                    <!-- Add 1-2 more featured projects if desired -->
+                </div>
+                <div class="text-center">
+                    <a href="projects.html" class="btn btn-outline">View All Projects</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="latest-blog" class="latest-blog-section section-padding bg-light">
+            <div class="container">
+                <h2 class="section-title">From My Blog</h2>
+                <div class="blog-grid">
+                    <!-- Blog Post Card 1 -->
+                    <article class="blog-card">
+                        <!-- <img src="assets/blog-thumbnails/blog1-thumb.jpg" alt="Blog Post 1 Thumbnail" class="blog-thumbnail"> -->
+                        <div class="blog-card-content">
+                            <h3>My Journey into Android Development</h3>
+                            <p class="blog-meta">Published: <time datetime="2024-03-10">March 10, 2024</time></p>
+                            <p class="blog-excerpt">A short snippet about the blog post content, encouraging users to
+                                read more...</p>
+                            <a href="blog.html#my-journey-post" class="link-read-more">Read More →</a>
+                            <!-- Or link to blog-posts/my-journey-post.html if using separate files -->
+                        </div>
+                    </article>
+
+                    <!-- Blog Post Card 2 -->
+                    <article class="blog-card">
+                        <div class="blog-card-content">
+                            <h3>Exploring On-Device AI with TensorFlow Lite</h3>
+                            <p class="blog-meta">Published: <time datetime="2024-02-20">February 20, 2024</time></p>
+                            <p class="blog-excerpt">An overview of using TFLite for mobile AI applications, challenges,
+                                and learnings...</p>
+                            <a href="blog.html#tflite-post" class="link-read-more">Read More →</a>
+                        </div>
+                    </article>
+                </div>
+                <div class="text-center">
+                    <a href="blog.html" class="btn btn-outline">View All Blog Posts</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section section-padding">
+            <div class="container">
+                <h2 class="section-title">Got a Project Idea? Let's Discuss!</h2>
+                <form id="contact-form" action="[YOUR_FORMSPREE_ENDPOINT_OR_OTHER_SERVICE]" method="POST">
+                    <div class="form-group">
+                        <label for="name">Your Name:</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Your Email:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="idea">Your Idea/Message:</label>
+                        <textarea id="idea" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <p id="form-status" class="form-status-message"></p>
+                </form>
+                <div class="alternative-contact">
+                    <p>Or reach out directly via <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-content">
+            <div class="social-links">
+                <a href="https://github.com/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="GitHub">GitHub</a>
+                <a href="https://linkedin.com/in/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="LinkedIn">LinkedIn</a>
+                <!-- Add other social links as needed -->
+            </div>
+            <p>© <span id="current-year"></span> Aniket Raj. All rights reserved.</p>
+            <p class="footer-credit">Built with HTML, CSS, and Vanilla JavaScript.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/theme-toggle.js"></script>
+    <script src="js/mobile-nav.js"></script>
+    <script src="js/form-handler.js"></script>
+    <!-- <script src="js/form-handler.js"></script> --> <!-- Uncomment if you create this for AJAX form submission -->
+</body>
+
+</html>

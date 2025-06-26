@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog | Aniket Raj</title>
+    <meta name="description" content="Articles and thoughts by [Your Name] on technology, development, and more.">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="icon" href="assets/favicon.ico" type="image/x-icon"> -->
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-container">
+            <a href="index.html" class="logo">
+                AR.
+            </a>
+            <nav class="main-nav">
+                <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                </button>
+                <ul class="nav-links">
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="blog.html" class="active">Blog</a></li> <!-- Mark as active -->
+                    <li><button id="theme-toggle-button" aria-label="Toggle theme">☀️</button></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="all-blog-posts" class="all-blog-posts-section section-padding">
+            <div class="container">
+                <h1 class="page-title section-title">My Blog</h1>
+                <p class="page-intro text-center">
+                    Welcome to my blog! Here I share my thoughts, learnings, and experiences
+                    related to software development, technology trends, and personal projects.
+                </p>
+
+                <div class="blog-listing">
+                    <!-- Blog Post Entry 1 -->
+                    <article class="blog-post-entry">
+                        <div class="blog-post-entry-header">
+                            <h2><a href="blog-posts/my-journey-into-android.html">My Journey into Android
+                                    Development</a></h2>
+                            <p class="blog-meta">
+                                <span class="post-date">Published: <time datetime="2024-03-10">March 10,
+                                        2024</time></span>
+                                <!-- <span class="post-tags">Tags: <a href="#">Android</a>, <a href="#">Kotlin</a>, <a href="#">Career</a></span> -->
+                            </p>
+                        </div>
+                        <div class="blog-post-excerpt">
+                            <p>
+                                It all started with a fascination for how these little devices in our pockets could do
+                                so much.
+                                This post chronicles my path into Android development, the challenges I faced, the
+                                'aha!' moments,
+                                and why I'm so passionate about building for this platform...
+                            </p>
+                        </div>
+                        <a href="blog-posts/my-journey-into-android.html" class="btn btn-outline btn-small">Read Full
+                            Post →</a>
+                    </article>
+
+                    <!-- Blog Post Entry 2 -->
+                    <article class="blog-post-entry">
+                        <div class="blog-post-entry-header">
+                            <h2><a href="blog-posts/exploring-on-device-ai.html">Exploring On-Device AI with TensorFlow
+                                    Lite</a></h2>
+                            <p class="blog-meta">
+                                <span class="post-date">Published: <time datetime="2024-02-20">February 20,
+                                        2024</time></span>
+                                <!-- <span class="post-tags">Tags: <a href="#">AI</a>, <a href="#">TensorFlow Lite</a>, <a href="#">Mobile</a></span> -->
+                            </p>
+                        </div>
+                        <div class="blog-post-excerpt">
+                            <p>
+                                Running machine learning models directly on mobile devices opens up a world of
+                                possibilities,
+                                from real-time image processing to personalized user experiences. In this article, I
+                                dive into
+                                TensorFlow Lite, its benefits, challenges, and a small project I built...
+                            </p>
+                        </div>
+                        <a href="blog-posts/exploring-on-device-ai.html" class="btn btn-outline btn-small">Read Full
+                            Post →</a>
+                    </article>
+
+                    <!-- Blog Post Entry 3 (Example) -->
+                    <article class="blog-post-entry">
+                        <div class="blog-post-entry-header">
+                            <h2><a href="blog-posts/kotlin-coroutines-deep-dive.html">A Deep Dive into Kotlin Coroutines
+                                    for Asynchronous Android Apps</a></h2>
+                            <p class="blog-meta">
+                                <span class="post-date">Published: <time datetime="2024-01-15">January 15,
+                                        2024</time></span>
+                            </p>
+                        </div>
+                        <div class="blog-post-excerpt">
+                            <p>
+                                Asynchronous programming is crucial for responsive Android apps. Kotlin Coroutines
+                                provide a powerful
+                                and elegant way to manage background tasks. Let's explore their core concepts, common
+                                use cases,
+                                and best practices...
+                            </p>
+                        </div>
+                        <a href="blog-posts/kotlin-coroutines-deep-dive.html" class="btn btn-outline btn-small">Read
+                            Full Post →</a>
+                    </article>
+
+                    <!-- Add more blog post entries as needed -->
+                    <!-- Ensure they are listed in reverse chronological order (newest first) -->
+
+                </div> <!-- .blog-listing -->
+
+                <!-- Optional: Pagination (for many posts, more advanced JS needed) -->
+                <!--
+                <nav class="pagination text-center" aria-label="Blog post navigation">
+                    <a href="#" class="btn btn-outline btn-small disabled">« Previous</a>
+                    <span class="page-numbers">Page 1 of X</span>
+                    <a href="#" class="btn btn-outline btn-small">Next »</a>
+                </nav>
+                -->
+
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-content">
+            <div class="social-links">
+                <a href="https://github.com/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="GitHub">GitHub</a>
+                <a href="https://linkedin.com/in/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="LinkedIn">LinkedIn</a>
+            </div>
+            <p>© <span id="current-year"></span> Aniket Raj. All rights reserved.</p>
+            <p class="footer-credit">Built with HTML, CSS, and Vanilla JavaScript.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/theme-toggle.js"></script>
+    <script src="js/mobile-nav.js"></script>
+</body>
+
+</html>

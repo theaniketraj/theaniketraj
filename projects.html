@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects | Aniket Raj</title>
+    <meta name="description" content="A showcase of all projects by [Your Name].">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="icon" href="assets/favicon.ico" type="image/x-icon"> -->
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-container">
+            <a href="index.html" class="logo">
+                AR.
+            </a>
+            <nav class="main-nav">
+                <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                </button>
+                <ul class="nav-links">
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="projects.html" class="active">Projects</a></li> <!-- Mark as active -->
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><button id="theme-toggle-button" aria-label="Toggle theme">☀️</button></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="all-projects" class="all-projects-section section-padding">
+            <div class="container">
+                <h1 class="page-title section-title">All My Projects</h1>
+                <p class="page-intro text-center">
+                    Here's a collection of projects I've worked on, showcasing my skills in various technologies.
+                    Each project has its own dedicated site with more details.
+                </p>
+
+                <!-- Optional: Filters (more advanced JS needed) -->
+                <!-- 
+                <div class="project-filters text-center" style="margin-bottom: 2rem;">
+                    <button class="btn-filter active" data-filter="all">All</button>
+                    <button class="btn-filter" data-filter="android">Android</button>
+                    <button class="btn-filter" data-filter="ai">AI/ML</button>
+                    <button class="btn-filter" data-filter="web">Web</button>
+                    <button class="btn-filter" data-filter="automation">Automation</button>
+                </div>
+                -->
+
+                <div class="projects-grid">
+                    <!-- Project Card 1 (Example - Repeat for all your projects) -->
+                    <article class="project-card" data-category="android"> <!-- Add data-category for filtering -->
+                        <img src="assets/project-thumbnails/project1-thumb.jpg" alt="Project 1 Thumbnail"
+                            class="project-thumbnail">
+                        <div class="project-card-content">
+                            <h3>Project Title 1 (e.g., NewsApp Android)</h3>
+                            <p class="project-tagline">A brief, catchy tagline for your project.</p>
+                            <p class="project-tech"><strong>Tech:</strong> Kotlin, Jetpack Compose, Retrofit</p>
+                            <a href="[LINK_TO_PROJECT_1_OFFICIAL_SITE]" target="_blank" rel="noopener noreferrer"
+                                class="btn btn-secondary">Visit Project Site</a>
+                        </div>
+                    </article>
+
+                    <!-- Project Card 2 -->
+                    <article class="project-card" data-category="ai">
+                        <img src="assets/project-thumbnails/project2-thumb.jpg" alt="Project 2 Thumbnail"
+                            class="project-thumbnail">
+                        <div class="project-card-content">
+                            <h3>Project Title 2 (e.g., AI Image Classifier)</h3>
+                            <p class="project-tagline">Another cool project description.</p>
+                            <p class="project-tech"><strong>Tech:</strong> Python, TensorFlow, OpenCV</p>
+                            <a href="[LINK_TO_PROJECT_2_OFFICIAL_SITE]" target="_blank" rel="noopener noreferrer"
+                                class="btn btn-secondary">Visit Project Site</a>
+                        </div>
+                    </article>
+
+                    <!-- Project Card 3 -->
+                    <article class="project-card" data-category="web">
+                        <img src="assets/project-thumbnails/portfolio-thumb.jpg" alt="Portfolio Project Thumbnail"
+                            class="project-thumbnail">
+                        <div class="project-card-content">
+                            <h3>Personal Portfolio (This Site)</h3>
+                            <p class="project-tagline">My personal space on the web, built with HTML, CSS, and JS.</p>
+                            <p class="project-tech"><strong>Tech:</strong> HTML5, CSS3, Vanilla JavaScript</p>
+                            <a href="https://github.com/theaniketraj/your-portfolio-repo" target="_blank"
+                                rel="noopener noreferrer" class="btn btn-secondary">View on GitHub</a>
+                        </div>
+                    </article>
+
+                    <!-- Project Card 4 (Example Automation Project) -->
+                    <article class="project-card" data-category="automation">
+                        <img src="assets/project-thumbnails/automation-script-thumb.jpg"
+                            alt="Automation Script Thumbnail" class="project-thumbnail">
+                        <div class="project-card-content">
+                            <h3>Automated File Organizer</h3>
+                            <p class="project-tagline">A Python script to automatically organize files in a directory
+                                based on their type.</p>
+                            <p class="project-tech"><strong>Tech:</strong> Python, OS module, shutil</p>
+                            <a href="[LINK_TO_AUTOMATION_PROJECT_SITE_OR_GITHUB]" target="_blank"
+                                rel="noopener noreferrer" class="btn btn-secondary">View Details</a>
+                        </div>
+                    </article>
+
+                    <!-- Add more project cards as needed -->
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-content">
+            <div class="social-links">
+                <a href="https://github.com/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="GitHub">GitHub</a>
+                <a href="https://linkedin.com/in/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="LinkedIn">LinkedIn</a>
+            </div>
+            <p>© <span id="current-year"></span> Aniket Raj. All rights reserved.</p>
+            <p class="footer-credit">Built with HTML, CSS, and Vanilla JavaScript.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/theme-toggle.js"></script>
+    <script src="js/mobile-nav.js"></script>
+    <!-- <script src="js/project-filter.js"></script> --> <!-- If you implement filtering -->
+</body>
+
+</html>

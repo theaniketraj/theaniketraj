@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Journey into Android Development | Aniket Raj's Blog</title>
+    <meta name="description"
+        content="A detailed account of my journey into Android development, challenges, and learnings.">
+    <link rel="stylesheet" href="../css/style.css"> <!-- Note the ../ to go up one level for CSS -->
+    <!-- <link rel="icon" href="../assets/favicon.ico" type="image/x-icon"> -->
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-container">
+            <a href="../index.html" class="logo"> <!-- ../index.html -->
+                AR.
+            </a>
+            <nav class="main-nav">
+                <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                </button>
+                <ul class="nav-links">
+                    <li><a href="../about.html">About</a></li> <!-- ../about.html -->
+                    <li><a href="../projects.html">Projects</a></li> <!-- ../projects.html -->
+                    <li><a href="../blog.html" class="active">Blog</a></li> <!-- ../blog.html -->
+                    <li><button id="theme-toggle-button" aria-label="Toggle theme">☀️</button></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <article class="blog-post-full section-padding">
+            <div class="container blog-post-container">
+                <header class="blog-post-full-header">
+                    <h1>My Journey into Android Development</h1>
+                    <p class="blog-meta">
+                        <span class="post-date">Published: <time datetime="2024-03-10">March 10, 2024</time></span>
+                        by Aniket Raj
+                        <!-- <span class="post-tags">Tags: <a href="#">Android</a>, <a href="#">Kotlin</a>, <a href="#">Career</a></span> -->
+                    </p>
+                </header>
+
+                <!-- Optional: Featured Image for the blog post -->
+                <!--
+                <figure class="featured-image">
+                    <img src="../assets/blog-thumbnails/my-journey-android-featured.jpg" alt="Android Development Journey">
+                    <figcaption>My workspace while learning Android.</figcaption>
+                </figure>
+                -->
+
+                <div class="blog-post-content">
+                    <p>It all started with a fascination for how these little devices in our pockets could do so much.
+                        This post chronicles my path into Android development, the challenges I faced, the 'aha!'
+                        moments, and why I'm so passionate about building for this platform.</p>
+
+                    <h2>The Spark</h2>
+                    <p>My first encounter with programming was [briefly describe]. But it wasn't until I saw [specific
+                        app or functionality] that I truly became interested in mobile development. The idea of creating
+                        something tangible that people could interact with daily was incredibly appealing.</p>
+
+                    <h2>Diving In: First Steps and Challenges</h2>
+                    <p>I started with [Java/Kotlin - be specific]. The learning curve was [steep/manageable]. I remember
+                        struggling with [specific concept, e.g., Android Lifecycle, asynchronous tasks, UI layouts].
+                        Resources like [official documentation, specific online courses, communities] were invaluable.
+                    </p>
+                    <pre><code class="language-kotlin">// Optional: A small, relevant code snippet
+fun main() {
+    println("Hello, Android World!")
+}
+                    </code></pre>
+                    <p>One of the biggest hurdles was [describe a significant challenge and how you overcame it]. This
+                        taught me the importance of [lesson learned, e.g., perseverance, debugging skills, community
+                        support].</p>
+
+                    <h2>Key Learnings and Milestones</h2>
+                    <ul>
+                        <li>Understanding the Android Component Lifecycle.</li>
+                        <li>Working with APIs and handling network requests (e.g., using Retrofit).</li>
+                        <li>Implementing persistent storage with Room.</li>
+                        <li>Adopting Kotlin and its concise syntax, along with Coroutines for asynchronous operations.
+                        </li>
+                        <li>My first "real" app: [briefly describe a small app you built and what it did].</li>
+                    </ul>
+
+                    <h2>Why I Love Android Development</h2>
+                    <p>[Explain your passion - e.g., direct impact, creativity, problem-solving, the Kotlin ecosystem,
+                        the vibrant community].</p>
+
+                    <h2>Looking Ahead</h2>
+                    <p>I'm currently focused on [what you're learning now, e.g., Jetpack Compose, advanced architectural
+                        patterns, on-device ML]. My goal is to [your future aspirations in Android dev].</p>
+
+                    <p>Thanks for reading! If you're also on this journey or have questions, feel free to reach out.</p>
+                </div>
+
+                <nav class="post-navigation" aria-label="Post navigation">
+                    <a href="../blog.html" class="btn btn-outline btn-small">← Back to Blog Index</a>
+                    <!-- Optional: Links to Previous/Next post -->
+                    <!-- <a href="previous-post.html" class="btn btn-outline btn-small">Previous Post</a> -->
+                    <!-- <a href="next-post.html" class="btn btn-outline btn-small">Next Post →</a> -->
+                </nav>
+
+            </div> <!-- .blog-post-container -->
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-content">
+            <div class="social-links">
+                <a href="https://github.com/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="GitHub">GitHub</a>
+                <a href="https://linkedin.com/in/theaniketraj" target="_blank" rel="noopener noreferrer"
+                    aria-label="LinkedIn">LinkedIn</a>
+            </div>
+            <p>© <span id="current-year"></span> Aniket Raj. All rights reserved.</p>
+            <p class="footer-credit">Built with HTML, CSS, and Vanilla JavaScript.</p>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script> <!-- ../js/ -->
+    <script src="../js/theme-toggle.js"></script> <!-- ../js/ -->
+    <script src="../js/mobile-nav.js"></script> <!-- ../js/ -->
+    <!-- Optional: Add a script for syntax highlighting if you use code blocks, e.g., Prism.js or highlight.js -->
+    <!-- <script src="../js/prism.js"></script> -->
+</body>
+
+</html>
