@@ -2,8 +2,6 @@
 
 My name is Aniket Raj.
 
----
-
 ## About me
 
 - ✨ Exploring intersection of Technology.
