@@ -1,3 +1,19 @@
-# Hi there 👋 I’m Aniket Raj
+# Hey 👋 What's up?
 
-A passionate Kotlin engineer and AI enthusiast—building **KARL** (Kotlin Adaptive Reasoning Learner). I thrive on end-to-end solutions: from native code with CMake & JNI, to Kotlin Multiplatform apps, to AI-driven SaaS.
+My name is Aniket Raj.
+
+---
+
+## About me
+
+- ✨ Exploring intersection of Technology.
+- 📚 I'm currently learning Kotlin.
+- 🎯 Goals: Proficiency in KMP.
+- 🎲 Fun fact: I'm a movie freak.
+
+## Proficient in
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
