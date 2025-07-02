@@ -17,3 +17,5 @@ My name is Aniket Raj.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </p>
+
+![](https://komarev.com/ghpvc/?username=theaniketraj)
